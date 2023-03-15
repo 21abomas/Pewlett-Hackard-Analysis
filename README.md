@@ -24,3 +24,14 @@
 
 <h2>Summary</h2>
 <p>Pewlett Hackard is facing a major challenge as 64% of their employees are either approaching retirement or eligible for mentorship programs. This will result in a significant need for new hires in the coming years, especially as many retiring employees hold senior positions. To prepare for this "silver tsunami," the company should focus on the mentorship program to ensure a smooth transition of expertise and knowledge to the next generation of employees.</p>
+
+	
+</head>
+<body>
+	<title>Resources</title>
+	<h1>Resources and Before Start Notes</h1>
+	<p>Data Source: Employee_Database_challenge.sql</p>
+	<p>Data Tools: PostgreSQL, pgAdmin</p>
+	<p>Software: pgAdmin, Python , Visual Studio Code</p>
+</body>
+</html>
